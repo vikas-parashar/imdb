@@ -14,4 +14,6 @@ You can also print following data:
 </ul>
 <li>To get specific data like votes use <code>print["votes"]</code>
 For more Documentation  <a href="http://deanclatworthy.com/imdb/">go here</a>
+#Pending
+To build a search box and show the result using AJAX using this scipt
 
