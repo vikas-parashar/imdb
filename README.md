@@ -13,5 +13,5 @@ You can also print following data:
 <li>year</li>
 </ul>
 <li>To get specific data like votes use <code>print["votes"]</code>
-For more Documentation go here <a href="http://deanclatworthy.com/imdb/"></a>
+For more Documentation  <a href="http://deanclatworthy.com/imdb/">go here</a>
 
