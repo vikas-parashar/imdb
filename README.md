@@ -1,4 +1,4 @@
-This is a script to easily access the Internet Movie Database, http://www.imdb.com
+
 #Requirements
 <a href="http://www.python.org/download/">Python</a>
 #Usage
