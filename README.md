@@ -1,7 +1,3 @@
-imdb
-====
-
-
 This is a script to easily access the Internet Movie Database, http://www.imdb.com
 #Requirements
 <a href="http://www.python.org/download/">Python</a>
@@ -16,4 +12,5 @@ You can also print following data:
 <li>title</li>
 <li>year</li>
 </ul>
+<li>To get specific data like votes use <code>print["votes"]</code>
 
