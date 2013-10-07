@@ -1,8 +1,19 @@
 imdb
 ====
 
-Script to get IMDB movie Rating
+
 This is a script to easily access the Internet Movie Database, http://www.imdb.com
-<b>Requirements</b>
-<a href="">Python 2.7.5</a>
+#Requirements
+<a href="http://www.python.org/download/">Python</a>
+#Usage
+<li>To get all the details about movie use <code>Print data</code></li>
+You can also print following data:
+<ul>
+<li>genres</li>
+<li>languages</li>
+<li>country</li>
+<li>votes</li>
+<li>title</li>
+<li>year</li>
+</ul>
 
