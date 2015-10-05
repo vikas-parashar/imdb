@@ -10,3 +10,4 @@ def imdb():
 fetch = urllib.urlopen(imdb())
 data = json.load(fetch)
 print data["rating"]
+#it's just a comment...
